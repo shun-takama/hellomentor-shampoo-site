@@ -246,12 +246,12 @@ utility > utility
 }
 @media screen and (min-width: 768px) {
   .u-linebreak--sp {
-    display: none;
+    display: inline;
   }
 }
 
 .u-linebreak--pc {
-  display: none;
+  display: inline;
 }
 @media screen and (min-width: 768px) {
   .u-linebreak--pc {
@@ -812,8 +812,8 @@ page > product
   margin-bottom: 24px;
 }
 
-.product-main-linebreak {
-  height: 2em;
+.product-main-item-description span:first-of-type {
+  margin-bottom: 2rem;
 }
 
 .product-main-button {
