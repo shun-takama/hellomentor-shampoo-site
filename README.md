@@ -6,8 +6,7 @@ HelloMentorの制作課題として制作した、
 ---
 
 ## サイトURL
-
-
+https://shun-takama.github.io/hellomentor-shampoo-site/
 
 ---
 
